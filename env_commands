@@ -1,0 +1,2 @@
+python -m venv go
+.\go\Scripts\activate (use just this, since u already created the environment)
