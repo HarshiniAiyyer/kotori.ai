@@ -1,0 +1,14 @@
+STEP 1 : INITIALIZE A GIT REPO
+git init
+
+STEP 2: ADDING THE FILES TO BE PUSHED. SELECTING ALL THE FILES
+git add .
+
+STEP 3: COMMITING TO GIT
+git commit -m "i am back"
+
+STEP 4: GIVING THE URL TO PUSH (WHERE WE WANNA PUSH)
+git remote add origin https://github.com/HarshiniAiyyer/Kotori.ai.git
+
+STEP 5: GIVING THE BRANCH WHERE WE WANNA PUSH
+git push origin main
